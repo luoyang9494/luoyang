@@ -1,0 +1,29 @@
+[{
+    "name": "MySQL",
+    "day": "60天",
+    "cpu": "2核",
+    "storage": "4GB",
+    "system": "40G",
+    "wsx": "100G"
+}, {
+    "name": "PostgerSQL",
+    "day": "60天",
+    "cpu": "2核",
+    "storage": "4GB",
+    "system": "40G",
+    "wsx": "100G"
+}, {
+    "name": "SQL Server",
+    "day": "30天",
+    "cpu": "4核",
+    "storage": "8GB",
+    "system": "40G",
+    "wsx": "100G"
+}, {
+    "name": "MongeDB",
+    "day": "30天",
+    "cpu": "2核",
+    "storage": "8GB",
+    "system": "40G",
+    "wsx": "100G"
+}]
